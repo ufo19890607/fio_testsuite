@@ -1,2 +1,1 @@
-# fio_testsuite
-This project is used to evaluate I/O performance of host and vhost environments
+This project is used to run fio benchmark on host or vhost environments
